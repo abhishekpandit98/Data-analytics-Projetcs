@@ -3,12 +3,12 @@ In this internship, I completed the following tasks:
 
 1. **Task 1: Data Cleaning**
    - Cleaned a dataset by removing missing values and outliers.
-   - [Link to Task 1 Code](task1_data_cleaning.ipynb)
+   - [Link to Task 1 Code](https://github.com/abhishekpandit98/Data-analytics-Projetcs/blob/main/technohacks_internship/task%201(Titanic%20dataset).ipynb)
 
 2. **Task 2: Summary Statistics**
    - Calculated summary statistics (mean, median, mode, standard deviation) for a dataset.
-   - [Link to Task 2 Code](task2_summary_statistics.ipynb)
+   - [Link to Task 2 Code](https://github.com/abhishekpandit98/Data-analytics-Projetcs/blob/main/technohacks_internship/task%202(Titanic%20dataset).ipynb)
 
 3. **Task 3: Visualization using Histogram**
    - Created a histogram to visualize the distribution of data in a dataset.
-   - [Link to Task 3 Code](task3_histogram_visualization.ipynb)
+   - [Link to Task 3 Code](https://github.com/abhishekpandit98/Data-analytics-Projetcs/blob/main/technohacks_internship/Task3(Iris%20flower%20dataset).ipynb)
